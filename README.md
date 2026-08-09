@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <!-- Here are the metadata -->
+        gyuh
     </head>
     <body>
-        <!-- Here are the visual elements -->
+        gyuh
     </body>
 </html>
